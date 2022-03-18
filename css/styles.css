@@ -134,7 +134,7 @@ i {
 
 @media(max-width:500px){
     #features {
-        padding: 2rem 1rem;
+        padding: 1.8rem 1rem;
         width: 95%;
     }
     .btn-container {
@@ -146,6 +146,9 @@ i {
     .search-container {
         width: 100%;
         margin-bottom: 0.5rem;
+    }
+    .btn-container button {
+        height:75px;
     }
     
 }
