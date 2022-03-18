@@ -134,8 +134,8 @@ i {
 
 @media(max-width:500px){
     #features {
-        padding: 1.8rem 1rem;
-        width: 95%;
+        padding: 1.6rem 1rem;
+        width: 92%;
     }
     .btn-container {
         grid-template-columns: 1fr 1fr;
