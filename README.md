@@ -23,8 +23,8 @@ This is a task to replicate the design on the template using semantic HTML and C
 
 ### Screenshot
 
-![](screenshots/screenshot-1.JPG)
-![](screenshots/screenshot-2.JPG)
+![Desktop](screenshot/screenshot-1.JPG)
+![Mobile](screenshot/screenshot-2.JPG)
 
 
 ### Links
